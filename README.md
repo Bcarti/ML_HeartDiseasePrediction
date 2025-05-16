@@ -2,7 +2,7 @@ Proyecto ML - Machine Learning - Beatriz Cartiel
 
 ---
 
-### 📌 Problema / Problem Statement
+### Problema / Problem Statement
 
 **ES**: Las enfermedades cardíacas son una de las principales causas de muerte en el mundo. Este proyecto busca construir un modelo predictivo que, a partir de variables clínicas, permita identificar pacientes con riesgo de padecer enfermedad cardíaca.
 
@@ -10,7 +10,7 @@ Proyecto ML - Machine Learning - Beatriz Cartiel
 
 ---
 
-### 🗂️ Dataset
+### Dataset
 
 **ES**: El dataset utilizado es el **Cleveland Heart Disease dataset**, disponible públicamente en el repositorio de la UCI Machine Learning. Contiene variables como edad, sexo, presión arterial, colesterol, frecuencia cardíaca máxima, entre otras.
 
@@ -26,7 +26,7 @@ A sample is included in `src/data_sample/heart_disease_cleveland_sample.csv`.
 
 ---
 
-### 🧪 Solución Adoptada / Adopted Solution
+### Solución Adoptada / Adopted Solution
 
 **ES**:  
 1. **EDA** para conocer los datos y su distribución.  
@@ -46,7 +46,7 @@ A sample is included in `src/data_sample/heart_disease_cleveland_sample.csv`.
 
 ---
 
-### 🗃️ Estructura del repositorio / Repository Structure
+### Estructura del repositorio / Repository Structure
 
 ```bash
 ML_heart-disease/
@@ -64,7 +64,7 @@ ML_heart-disease/
 
 ---
 
-### 🎯 Objetivo del Proyecto / Project Goal
+### Objetivo del Proyecto / Project Goal
 
 **ES**: Evaluar la capacidad de desarrollar un proyecto completo de Machine Learning, desde el planteamiento del problema hasta la creación del modelo final y su evaluación.
 
@@ -72,7 +72,7 @@ ML_heart-disease/
 ## Uso
 
 -- 
-### 🚀 Como ejecutar este proyecto / How to Run the Project
+### Como ejecutar este proyecto / How to Run the Project
 
 **ES**:
 1. Clona este repositorio:
